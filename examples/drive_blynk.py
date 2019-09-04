@@ -1,3 +1,4 @@
+# Example for 5v Solenoid 
 import blynklib
 from adafruit_crickit import crickit
 
