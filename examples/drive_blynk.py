@@ -1,4 +1,6 @@
 # Example for 5v Solenoid 
+# Set the VPin to V5
+# Works best with the button widget
 import blynklib
 from adafruit_crickit import crickit
 
